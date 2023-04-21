@@ -38,10 +38,15 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@types/react": "^18.0.37",
     "@types/react-copy-to-clipboard": "^5.0.4",
     "tailwind-scrollbar": "^3.0.0",
     "tailwindcss": "^3.3.1",
     "typescript": "^5.0.4"
+=======
+    "tailwind-scrollbar": "^3.0.0",
+    "tailwindcss": "^3.3.1"
+>>>>>>> 315acf70a88c013f7ebbc1aa6f95c27e835fb274
   }
 }

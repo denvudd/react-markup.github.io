@@ -10,10 +10,5 @@ root.render(
   <ThemeContextProvider>
     <App />
   </ThemeContextProvider>
-<<<<<<< HEAD
-=======
-    
-
->>>>>>> 315acf70a88c013f7ebbc1aa6f95c27e835fb274
 );
 
